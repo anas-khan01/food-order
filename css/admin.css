@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    margin:0;
+    padding: 0;
+    font-family:Arial Bold'
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; ;
+}
+
+.wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.tb1-full{
+    width: 100%;
+}
+
+.tb1-30{
+    width: 30%;
+}
+
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td{
+    padding: 1%;
+}
+
+.btn-prim{
+    background-color: #686de0;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-prim:hover{
+    background-color: #4834d4;
+}
+
+.btn-sec1{
+    background-color: #badc58;
+    padding: 1%;
+    color:#3a1972;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-sec1:hover{
+    background-color: #6ab04c;
+    color:white;
+}
+
+.btn-sec2{
+    background-color: #ff7979;
+    padding: 1%;
+    color: #3a1972;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-sec2:hover{
+    background-color: #eb4d4b;
+    color: white;
+}
+
+.btn-sec3{
+    background-color:#ffbe76;
+    padding: 1%;
+    color: #3a1972;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-sec3:hover{
+    background-color: #f0932b;
+    color: white;
+}
+
+.success{
+    color: #27ae60;
+}
+.error{
+    color: #c0392b;
+}
+/* css for menu */
+
+.menu{
+    border-bottom: 1px solid gray;
+}
+.menu ul{
+    list-style-type: none;  
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color:#3a1972;
+}
+.menu ul li a:hover{
+    color:#230e46;
+}
+
+/* css for main content */
+.main-content{
+    background-color: rgb(231, 231, 231);
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color: #fff;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+
+/* css for footer */
+.footer{
+    background-color: #c08497 ;
+    color: white;
+}
+
+/*css for login*/
+.login{
+    border: 1px solid grey;
+    width: 30%;
+    margin: 10% auto;
+    padding:2%;
+    background-color:#ffbe76;
+}

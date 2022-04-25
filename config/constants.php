@@ -6,7 +6,7 @@
     define('DB_USERNAME', 'admin');
     define('DB_PASSWORD', 'temp1234');
     define('DB_NAME', 'food');
-    define('SITEURL', 'http://localhost/food-order/');
+    define('SITEURL', 'http://test-env.eba-6ax6smek.us-east-1.elasticbeanstalk.com/');
     
 
 
